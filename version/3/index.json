@@ -1,0 +1,15 @@
+﻿{
+    "Name": "V0.5",
+    "Index": 3,
+    "AddedFiles": [
+		{
+			"Path": "patch.xp3.sig",
+			"Hash": "5b114d395b031f26c6645a7af696b5d24a9017f2"
+		},
+		{
+			"Path": "patch.xp3",
+			"Hash": "c7b11d0f2a993f4a972a930a777dd45e4209a7b4"
+		}
+	],
+    "DeletedFiles": []
+}
